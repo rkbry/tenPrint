@@ -9,5 +9,5 @@ function tenPrint(cols, rows) {
     }
     maze += '\n';
   }
-  return maze;
+  return maze;  // console.log() it mostly
 }
